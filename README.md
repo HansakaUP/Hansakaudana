@@ -4,5 +4,5 @@ I am a Quality Assurance Engineer and Technical Supporter, currently working at 
 
 - 🔭 I’m currently working on Ministry Of Finance in ITMIS Project
 - 💬 Ask me about Computer Hardware & Networking
-- 📫 Reach me via https://www.linkedin.com/in/hansaka-udana/
+- 📫 Reach me via linkedin.com/in/hansaka-udana
 
