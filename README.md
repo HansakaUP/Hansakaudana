@@ -1,4 +1,4 @@
-### Hi there 👋                                                                                                        ![](https://komarev.com/ghpvc/?username=HansakaUdana&style=flat-square)
+### Hi there 👋                                                                                                          ![](https://komarev.com/ghpvc/?username=HansakaUdana&style=flat-square)
 
 I am a Quality Assurance Engineer and Technical Supporter, currently working at the Ministry of Finance as a QA & Software Tester. Specialties include Hardware Troubleshooting, Network and CCTV Design/Installing and Web Development.
 
