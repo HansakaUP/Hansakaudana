@@ -2,9 +2,7 @@
 
 ![](https://github.com/HansakaUdana/?HansakaUdana=your-github-HansakaUdana&style=flat-square)
 
-
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=HansakaUdana&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HansakaUdana)
-
+![counter](https://englrjvk2hasnq2.m.pipedream.net)
 
 I am a Quality Assurance Engineer and Technical Supporter, currently working at the Ministry of Finance as a QA & Software Tester. Specialties include Hardware Troubleshooting, Network and CCTV Design/Installing and Web Development.
 
@@ -12,3 +10,4 @@ I am a Quality Assurance Engineer and Technical Supporter, currently working at 
 - 💬 Ask me about Computer Hardware & Networking
 - 📫 Reach me via [linkedin.com/in/HansakaUdana/](https://www.linkedin.com/in/hansaka-udana/)
 
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=HansakaUdana&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HansakaUdana)
