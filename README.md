@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{HansakaUdana}/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=HansakaUdana&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HansakaUdana)
