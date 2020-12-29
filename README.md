@@ -2,6 +2,8 @@
 
 ![](https://github.com/HansakaUdana/?HansakaUdana=your-github-HansakaUdana&style=flat-square)
 
+![Visitor Count](https://profile-counter.glitch.me/{HansakaUdana}/HansakaUdana=your-github-HansakaUdana&style=flat-square)
+
 ![counter](https://englrjvk2hasnq2.m.pipedream.net)
 
 I am a Quality Assurance Engineer and Technical Supporter, currently working at the Ministry of Finance as a QA & Software Tester. Specialties include Hardware Troubleshooting, Network and CCTV Design/Installing and Web Development.
